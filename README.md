@@ -18,11 +18,19 @@ relevantes, como nome, descrição, preço, quantidade em estoque, etc.
 ## Principais conceitos utilizados.
 ● Estruturas condicionais (If, elif, else, match)
 
+[Control Flow](https://docs.python.org/pt-br/3/tutorial/controlflow.html#if-statements)
+
 ● Estruturas de repetição (For, while)
+
+[Control Flow](https://docs.python.org/pt-br/3/tutorial/controlflow.html#for-statements)
 
 ● Dicionários
 
+[Python Data Structures](https://docs.python.org/pt-br/3/tutorial/datastructures.html)
+
 ● Funções
+
+[Defining Functions](https://docs.python.org/pt-br/3/tutorial/controlflow.html#defining-functions)
 
 ## Documentações de apoio em: [Python docs](https://docs.python.org/pt-br/3/tutorial/)
 
